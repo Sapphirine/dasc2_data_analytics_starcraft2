@@ -1,6 +1,6 @@
 # daSC2 - Data Analytics for StarCraft II
 
-[daSC2](https://github.com/davidkuhta/dasc2) is a data analytics toolset
+[daSC2](https://github.com/Sapphirine/dasc2_data_analytics_starcraft2) is a data analytics toolset
 under development for StarCraft 2 by David Kuhta and Anshul Sacheti.
 
 # Quick Start Guide
